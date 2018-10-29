@@ -7,10 +7,10 @@ console.log("Welcome Again !");
   member.createDM().then(function (channel) {
   return channel.send(` 
 **
-[ Welcome To Esinti ] ,
+[ Welcome To Bond ] ,
 ارحبو تراحيب المطرر , تعالو نستانس انتم واخوياكم .. 
 ننتظركـــم ، 
-[ https://discord.gg/TSY6rFM ] ,
+[ https://discord.gg/g7qZfuY ] ,
 [ https://images-ext-1.discordapp.net/external/5j2inxAmKsGZRr8oGuoeKCynVBzqItDw-eSyBA4mHpM/https/media3.giphy.com/media/3o6Zt6zRQw8yStXfxe/giphy.gif?width=432&height=324 ]
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`)
@@ -22,10 +22,10 @@ client.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
 **
-[ Welcome To Esinti ] ,
+[ Welcome To Bond ] ,
 ارحبو تراحيب المطرر , تعالو نستانس انتم واخوياكم .. 
 ننتظركـــم ، 
-[ https://discord.gg/TSY6rFM ] ,
+[ https://discord.gg/g7qZfuY ] ,
 [ https://images-ext-1.discordapp.net/external/5j2inxAmKsGZRr8oGuoeKCynVBzqItDw-eSyBA4mHpM/https/media3.giphy.com/media/3o6Zt6zRQw8yStXfxe/giphy.gif?width=432&height=324 ]
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`) 
@@ -33,7 +33,7 @@ client.on("guildMemberAdd", member => {
 })
 
     client.on('ready', () => {
-     client.user.setActivity("- Esinti . By : SoM .",{type: 'Listening'});
+     client.user.setActivity("- Bond . By : SoM .",{type: 'Listening'});
 
 });
 

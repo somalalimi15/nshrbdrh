@@ -10,7 +10,7 @@ console.log("Welcome Again !");
 [ Welcome To Bond ] ,
 ارحبو تراحيب المطرر , تعالو نستانس انتم واخوياكم .. 
 ننتظركـــم ، 
-[ https://discord.gg/g7qZfuY ] ,
+[ https://discord.gg/pZVzBf4 ] ,
 [ https://images-ext-1.discordapp.net/external/5j2inxAmKsGZRr8oGuoeKCynVBzqItDw-eSyBA4mHpM/https/media3.giphy.com/media/3o6Zt6zRQw8yStXfxe/giphy.gif?width=432&height=324 ]
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`)
@@ -25,7 +25,7 @@ client.on("guildMemberAdd", member => {
 [ Welcome To Bond ] ,
 ارحبو تراحيب المطرر , تعالو نستانس انتم واخوياكم .. 
 ننتظركـــم ، 
-[ https://discord.gg/g7qZfuY ] ,
+[ https://discord.gg/pZVzBf4 ] ,
 [ https://images-ext-1.discordapp.net/external/5j2inxAmKsGZRr8oGuoeKCynVBzqItDw-eSyBA4mHpM/https/media3.giphy.com/media/3o6Zt6zRQw8yStXfxe/giphy.gif?width=432&height=324 ]
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`) 
